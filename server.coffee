@@ -41,7 +41,18 @@ exports.client_newHunt = exports.newHunt = newHunt = (amount = 1, cb = false) !-
 
 	log 'newHunt called, amount '+amount
 	hunts = [
+		"With a line of Cocaïne"
+		"With a hooker in the background"
+		"In a striped shirt"
+		"like you are licking a pussy"
+		"Naked in a car"
+		"Wearing a girls underwear"
+		"With a sneue smoel (Like Robin Mulder)"
+		"Eating chicken"
+		"With a television laying on top of you"
+		"With two apples in your mouth"
 		"Brushing your teeth"
+		"Eating a flower"
 		"Riding a bike"
 		"Kissing someone"
 		"Wearing a cap"
